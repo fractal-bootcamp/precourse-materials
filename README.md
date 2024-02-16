@@ -35,3 +35,5 @@ Whenever you see a word that you don't fully understand, write it down and defin
 Everything that is in this repository matters for writing software, and many things relate to each other. Always ask yourself, how does this relate to the other concepts that I've learned?
 
 Use the terminal as much possible.
+
+If you come across a super helpful resource for a given module, add it to the module readme. Help the future students!
