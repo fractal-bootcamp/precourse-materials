@@ -10,13 +10,15 @@ For each module:
 
 1. Check out a new git branch, called `${your_name}/${module_name}`. If you don't know what this is or how to do it via the command line, read the git and terminal basics sections.
 
-2. Create a new file `${your_name}.md`, under the `answers` folder in the module. (bonus: use the terminal to do this)
+2. Create a new file `${your_name}.md`, under the `answers` folder in the module.* (bonus: use the terminal to do this)
 
 3. Copy the answers in the module's `README.md` into your file. (bonus: use the terminal to do this)
 
 4. Read through the resources and do your own research online. Drawing on your understanding, answer the questions in the your answer file.
 
 5. Save and commit your new file. Create a pull request (PR) from your branch to the main branch. Add @jakezegil and/or a friend as the PR reviewer. (bonus: use the terminal to do this)
+
+*see `computer-science/basics/answers/jake-zegil.md` for an example submission
 
 ## GUIDELINES
 
