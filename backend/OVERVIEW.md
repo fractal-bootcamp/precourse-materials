@@ -3,7 +3,9 @@
 ## Layers
 
 End User -> Client Render <-> Client Data <-> Controller <-> Service <-> Database
+
            (           Client           ) <-> (       Server       ) <-> ( Server )
+           
            (          Frontend          ) <-> (           Backend                 )
 
 ## End User
