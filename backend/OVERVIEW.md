@@ -4,10 +4,6 @@
 
 End User -> Client Render <-> Client Data <-> Controller <-> Service <-> Database
 
-           (           Client           ) <-> (       Server       ) <-> ( Server )
-           
-           (          Frontend          ) <-> (           Backend                 )
-
 ## End User
 
 The person at the computer! The person makes requests to the server, and the server returns responses. That request may be a request for a webpage resource (ex. www.google.com), or a request for data (ex. www.reddit.com/query), and that response may be in different formats (HTML, JSON, etc) which are typically indicated in the response headers.
