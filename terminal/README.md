@@ -1,11 +1,11 @@
-# DATA
+# TERMINAL
 
 ## QUESTIONS
 
-What are the top 20 commands for mac CLI?
-What is a terminal?
-What is the difference between bash and zsh?
-What is the difference between Terminal, Console, Shell, and Command Line?
+- What are the top 20 commands for mac Command Line Interface (CLI)?
+- What is a terminal? A CLI? Why are they synonymous?
+- What is the difference between bash and zsh?
+- What is the difference between Terminal, Console, Shell, and Command Line?
 
 ## RESOURCES
 

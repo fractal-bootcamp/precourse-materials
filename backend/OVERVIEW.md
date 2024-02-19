@@ -2,7 +2,7 @@
 
 ## Layers
 
-End User -> Client Render <-> Client Data <-> Controller <-> Domain Service <-> Database
+End User -> Client Render <-> Client Data <-> Controller <-> Service <-> Database
 
 ## End User
 
@@ -29,15 +29,15 @@ When the client requests data, it can persist the response data to use for later
 
 ## Controller
 
-The controller layer is the "entrypoint" to our backend. It's the first stop for the request, and it determines how to handle it. It might perform some simple validation and call a couple of domain service functions, before returning a response to the user.
+The controller layer is the "entrypoint" to our backend. It's the first stop for the request, and it determines how to handle it. It might perform some simple validation and call a couple of service functions, before returning a response to the user.
 
-The controller is responsible for structuring the response specific to the user. A domain service is responsible for executing functions and business logic, and returning relevant information. These aren't always the same, so in some sense the controller is responsible for defining and composing the interactions between what a user wants to do (implementation) and what is possible in the domain service (capabilities).
+The controller is responsible for structuring the response specific to the user. A service is responsible for executing functions and business logic, and returning relevant information. These aren't always the same, so in some sense the controller is responsible for defining and composing the interactions between what a user wants to do (implementation) and what is possible in the service (capabilities).
 
-## Domain Service
+## Service
 
-The domain service sits between the database and the controller. It is responsible for implementing the business logic and operations related to a specific domain, like a "ProductService" for an e-commerce application may check availability and update inventory.
+The service is a collection of functions that sits between the database and the controller. It is responsible for implementing business logic and operations and interfacing with the database, like a "ProductService" for an e-commerce application may check availability and update inventory.
 
-Domain service functions should be agnostic to the implementation and as thin as possible. The purpose of a domain service is to provide a set of reusable functions that allow you to encapsulate common rules and logic.
+Service functions should be agnostic to the implementation and as thin as possible. The purpose of a service is to provide a set of reusable functions that allow you to encapsulate common rules and logic.
 
 For example:
 
