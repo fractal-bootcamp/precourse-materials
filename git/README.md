@@ -1,13 +1,16 @@
-# DATA
+# GIT
 
 ## QUESTIONS
 
-What are the top 20 commands for mac CLI?
-What is a terminal?
-What is the difference between bash and zsh?
-What is the difference between Terminal, Console, Shell, and Command Line?
+- What are the top 20 commands for mac CLI?
+- What is a terminal?
+- What is the difference between bash and zsh?
+- What is the difference between Terminal, Console, Shell, and Command Line?
 
 ## RESOURCES
+
+GIT Cheatsheet:
+https://education.github.com/git-cheat-sheet-education.pdf
 
 Commands:
 https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/
