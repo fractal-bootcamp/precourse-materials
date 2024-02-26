@@ -24,7 +24,7 @@ For each module:
 
 ## GUIDELINES
 
-Refer to the `SCHEDULE.md` for the recommended sequencing. This is not prescriptive - feel free to jump around or skip modules that you're already familiar with.
+Refer to the `SCHEDULE.md` (WIP) for the recommended sequencing. This is not prescriptive - feel free to jump around or skip modules that you're already familiar with.
 
 There's no rules - reading through other's answers or working with a partner can be really helpful for learning. But please, for your own sake, don't copy and paste things. Framing your understanding in your own words is a powerful and valuable exercise.
 
