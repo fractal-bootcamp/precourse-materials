@@ -6,23 +6,17 @@ Getting Started:
 - TODO: git cheatsheet
 
 Basics:
-1. CS Basics
-2. Languages
+1. Computer Science -> CS Basics
+2. Computer Science -> Languages
 
 Web Fundamentals:
 1. How does the browser work? What are the fundamentals of web apps?
-https://fullstackopen.com/en/part0/fundamentals_of_web_apps
-
-
+- https://fullstackopen.com/en/part0/fundamentals_of_web_apps
 
 Backend:
 1. Databases
 2. Controllers
 3. Services
-
-Frontend:
-
-
 
 Advanced Frontend:
 1. Introduction to React

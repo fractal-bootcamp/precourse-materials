@@ -36,4 +36,4 @@ Everything that is in this repository matters for writing software, and many thi
 
 Use the terminal as much possible.
 
-If you come across a super helpful resource for a given module, add it to the module readme. Help the future students!
+If you come across a super helpful resource for a given module, add it to the module readme and open up a PR. Help the future students!
