@@ -4,7 +4,7 @@ These are the pre-course materials for Fractal Bootcamp (https://fractalbootcamp
 
 This is also a live repository - expect it to change and evolve over time.
 
-## GETTING STARTED (An Introduction to Coding):
+## Getting Started (An Introduction to Coding):
 If you are totally new to programming, START HERE.
 
 `NOTE: when learning to code, ALWAYS engage your curiosity. If you want to know why/how something works, ask ChatGPT, Youtube, or Google! (in roughly that order).`
