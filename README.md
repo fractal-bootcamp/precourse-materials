@@ -9,7 +9,11 @@ If you are totally new to programming, START HERE.
 
 `NOTE: when learning to code, ALWAYS engage your curiosity. If you want to know why/how something works, ask ChatGPT, Youtube, or Google! (in roughly that order).`
 
-I've divided your Intro To Coding into four main parts: 1a. Concept (Intro) 2a. Practice (Intro) 1b. Concepts (Deep) 2b. Practice (Deep)
+I've divided your Intro To Coding into four main parts:  
+- 1a. Concept (Intro)
+- 2a. Practice (Intro)
+- 1b. Concepts (Deep) 2b.
+- Practice (Deep)  
 
 I encourage you to jump between resources, depending on what feels good at the moment: 
 - If you feel like actually DOING something with code, try **Practice**.
