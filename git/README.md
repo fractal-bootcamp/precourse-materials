@@ -2,10 +2,9 @@
 
 ## QUESTIONS
 
-- What are the top 20 commands for mac CLI?
-- What is a terminal?
-- What is the difference between bash and zsh?
-- What is the difference between Terminal, Console, Shell, and Command Line?
+- What is git? Why do we need it?
+- What are the top 10 commands? What do they do?
+- How do you open a PR?
 
 ## RESOURCES
 
