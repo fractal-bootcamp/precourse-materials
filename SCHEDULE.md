@@ -1,23 +1,32 @@
+## SCHEDULE
+
+The below schedule is a recommended sequencing for answering and researching the sections in the precourse material.
 
 Getting Started:
-1. Terminal
-2. Git
-- https://www.theodinproject.com/lessons/foundations-setting-up-git
-- TODO: git cheatsheet
+1. /terminal
+2. /git
 
 Basics:
-1. Computer Science -> CS Basics
-2. Computer Science -> Languages
+1. /computer-science/basics
+2. /computer-science/languages
+3. /computer-science/general-concepts
+4. /computer-science/typescript
 
-Web Fundamentals:
-1. How does the browser work? What are the fundamentals of web apps?
-- https://fullstackopen.com/en/part0/fundamentals_of_web_apps
+Frontend:
+1. /frontend/browser
+2. /frontend/css
+3. /frontend/react
+4. /frontend/state-management
 
 Backend:
-1. Databases
-2. Controllers
-3. Services
+1. /backend/OVERVIEW.md
+2. /backend/database
+3. /backend/controller
+4. /backend/service
 
-Advanced Frontend:
-1. Introduction to React
-   - https://fullstackopen.com/en/part1/introduction_to_react
+Computer Science:
+1. /computer-science/light-computing
+2. /computer-science/light-cs
+3. /computer-science/light-networking
+
+

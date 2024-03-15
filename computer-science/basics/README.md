@@ -5,6 +5,7 @@
 - What is data?
 - What is an algorithm?
 - What is a function?
+- What is function scope? What is a block scope? What is global scope?
 - What is a variable?
 - What is a data type?
 - What is a data structure? What are some examples?
@@ -22,3 +23,5 @@
 
 ## RESOURCES
 
+- Function Scope
+https://dev.to/mingt/javascript-introduction-to-scope-function-scope-block-scope-d11
