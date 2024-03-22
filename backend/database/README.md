@@ -6,7 +6,7 @@
 - What is a column? A row? A table? What do these represent?
 - What is a primary key? Why is it important?
 - What is the difference between a SQL DB, NoSQL DB, and Graph DB?
-- What is data persistence? Why is it important? 
+- What is data persistence? Why is it important?
 - What is a data model?
 - What is an ORM?
 
@@ -18,13 +18,20 @@
 ## RESOURCES
 
 What is a database:
+
 - https://aws.amazon.com/what-is/database/
 - https://builtin.com/data-science/database
 - https://www.geeksforgeeks.org/what-is-database/
 
+Data Persistence:
+
+- https://www.mongodb.com/databases/data-persistence
+
 ORMs:
+
 - https://www.prisma.io/dataguide/types/relational/what-is-an-orm
 - https://www.prisma.io/dataguide/types/relational/comparing-sql-query-builders-and-orms
 
 Relationships:
+
 - https://www.sqlshack.com/learn-sql-types-of-relations/
