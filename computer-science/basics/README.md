@@ -24,4 +24,8 @@
 ## RESOURCES
 
 - Function Scope
-https://dev.to/mingt/javascript-introduction-to-scope-function-scope-block-scope-d11
+  https://dev.to/mingt/javascript-introduction-to-scope-function-scope-block-scope-d11
+
+- Pure Functions: https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976
+
+- Actions: https://medium.com/nerd-for-tech/what-are-side-effects-in-programming-51f7ef340f98
