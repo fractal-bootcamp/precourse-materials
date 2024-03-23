@@ -10,3 +10,11 @@
 
 ## RESOURCES
 
+- Time and space complexities
+  https://www.geeksforgeeks.org/time-complexity-and-space-complexity/
+
+- Pointers and references
+  https://unstop.com/blog/difference-between-pointer-and-reference-cpp
+
+- Call Stack
+  https://medium.com/@ryanfarney/breaking-down-the-call-stack-e68b5633fbad
