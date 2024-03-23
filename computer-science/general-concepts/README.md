@@ -10,3 +10,11 @@
 
 ## RESOURCES
 
+- Sync vs. async
+  https://stackoverflow.com/questions/748175/asynchronous-vs-synchronous-execution-what-is-the-difference
+
+- Promises
+  https://www.freecodecamp.org/news/guide-to-javascript-promises/
+
+- Concurrency vs. Parallelism
+  https://stackoverflow.com/questions/1050222/what-is-the-difference-between-concurrency-and-parallelism
