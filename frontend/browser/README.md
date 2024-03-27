@@ -10,3 +10,7 @@
 
 ## RESOURCES
 
+- Event Handling
+  https://developer.mozilla.org/en-US/docs/Web/Events/Event_handlers
+- DOM
+  https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
