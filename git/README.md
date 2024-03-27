@@ -10,6 +10,7 @@
 
 GIT Cheatsheet:
 https://education.github.com/git-cheat-sheet-education.pdf
+https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/
 
 Commands:
 https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/
