@@ -18,7 +18,7 @@ Global scope is the area outside of all functions in a file. Any variables defin
 
 ### What is a variable?
 
-A varibale is a storage location in memory that holds a value.
+A variable is a storage location in memory that holds a value.
 
 ### What is a data type?
 
