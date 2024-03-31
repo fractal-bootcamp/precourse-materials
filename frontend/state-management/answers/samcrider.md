@@ -2,7 +2,7 @@
 
 ### What is state in react? Why is state management important?
 
-State is dynamic data storage. Dynamic as in it allows component logic to manipulate it. State is basically a container of all the currently important data of an application. It is important to manage state in order to reduce the run time of tasks in an application. Also, components may need to share data which requires state to be managed.
+State is dynamic data storage. Dynamic as in it allows component logic to manipulate it. State is basically a container of all the currently important data of an application. It is important to manage state in order to reduce the run time of tasks in an application. What I mean is that when state is properly managed, the application's rendering process can be limited to only the components that actually need to be updated and unused state data is cleaned up, which prevents memory leaks. Also, components may need to share data which requires state to be managed.
 
 ### What is context? When would you use it?
 
