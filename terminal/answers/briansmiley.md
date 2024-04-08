@@ -17,15 +17,15 @@
 |`ping`     |Ping network host      |`history`  |Display command history|
 |`top`      |List running Processes |`grep`     |Filter/search operand  |
 
-## What is a terminal? A CLI? Why are they synonymous?
+### What is a terminal? A CLI? Why are they synonymous?
 
 A terminal or Command Line Interface is a text based interface for interacting with a computer operating system. They are synonymous because the terms refer to the same thing (more or less;usage can vary slightly)
 
-## What is the difference between bash and zsh?
+### What is the difference between bash and zsh?
 
 Bash and ZSH are two different shell programs/languages for interfacing with a Unix operating system. They are very similar but zsh is a somewhat newer shell with features like autocompletion, spelling correction, and plugins.
 
-## What is the difference between Terminal, Console, Shell, and Command Line?
+### What is the difference between Terminal, Console, Shell, and Command Line?
 
 **Terminal**: Text-based computer system interface
 
