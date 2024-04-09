@@ -7,15 +7,17 @@
 Git is version control management software. It allows us to write code while maintaining version history/rollback states, parallel development & subsequent merging of features between different contributors, with full version history available to everyone.
 ### What are the top 10 commands? What do they do?
 
-|Command    |Function               |Command|Function                   |
-|-------    |----                   |---        |---                    |
-|`add`       |Adds to git tree      |`commit`       |List directory         |
-|`push`       |Move                   |`fetch`       |Copy                   |
-|`pull`    |Create file            |`branch`       |Remove/delete          |
-|`checkout`    |Make directory         |`clone`     |Execute as admin       |
-|`merge`      |Manual page            |`diff`     |Write to stdout        |
+|Command    |Function                       |Command    |Function                           |
+|---       |---                             |---        |---                                |
+|`add`     |Adds file to git tracking       |`commit`   |Commits staged changes             |
+|`push`    |Pushes local commits to remote  |`fetch`    |Retrieves git state from remote    |
+|`pull`    |Incorporate remote changes      |`branch`   |Create a new git branch            |
+|`checkout`|Change current branch           |`clone`    |Copy remote repository to local    |
+|`merge`   |Merge two git branches          |`diff`     |Show difference between branches   |
 
 ### How do you open a PR?
+
+You can open a pull request in the GitHub web interface by navigating to the Pull Request tab in a repository and selecting the appropriate branch/fork to request incorporating changes from. One can also use the GitHub CLI using gh pr create.
 
 ## RESOURCES
 
