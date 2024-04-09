@@ -57,6 +57,10 @@ git commit -m "misc changes"
 ```
 Commit the changes to the active branch.
 
+```
+git push -u origin lui/git
+```
+Push the active branch to be synced on the remote server. Git will only push changes that are committed.
 
 
 ### Tidying up
