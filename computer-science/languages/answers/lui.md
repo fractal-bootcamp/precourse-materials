@@ -2,7 +2,7 @@
 
 ### What is a programming language?
 
-A tightly defined way for humans to provide instructions to computers without needing to write directly in machine code. The human follows a protocol that aims to ensure their instructions are intelligible to other humans, can only be interpreted in one way, and can thus be predictable processed for machine consumption.
+A tightly defined way for humans to provide instructions to computers without needing to write directly in machine code. The human follows a protocol that aims to ensure their instructions are intelligible to other humans, can only be interpreted in one way, and can thus be predictably processed for machine consumption.
 
 ### What is a software framework?
 
@@ -24,7 +24,7 @@ Functional Programming is a paradigm that treats functions as first-class citize
 
 ### What is the difference between a typed and non-typed language?
 
-In a typed language when you're using a variable for the first time you have to decide what kind of data it's going to hold - e.g. integers, text strings, or some of object defined in your code. Once the variable is defined you may be able to change the value it stores, but you can't store the TYPE of value it stores. This is safer and more predictable, but adds complexity and initially comes with an overhead for the human code writer.
+In a typed language when you're using a variable for the first time you have to decide what kind of data it's going to hold - e.g. integers, text strings, or some of object defined in your code. Once the variable is defined you may be able to change the value it stores, but you can't change the TYPE of value it stores. This is safer and more predictable, but adds complexity and initially comes with an overhead for the human code writer.
 
 Non-typed language just let you throw any type of data into a variable.
 
