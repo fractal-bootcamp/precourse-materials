@@ -96,5 +96,6 @@ Via browser:
 Open up github, e.g. https://github.com/fractal-bootcamp/precourse-materials, and find the big green button that says "Compare & pull request".
 
 Via command line:
-
+```
 gh pr create --base main --head lui/git  --title "Your PR title" --body "Your PR description"
+```
