@@ -12,19 +12,20 @@
   - a language is a direct way to program a computer while a framework is a library on top of a language to make it more human readable and more powerful.
   - frameworks have the added benefit of providing programmers with pre-designed code blocks so we don't have to write things from scratch.
 - What is the difference between a procedural, object-oriented, and functional programming language?
-  - I don't know
-  - I did more research on this and came up with the following. Functional programming is based around the patter on functions, while object-oriented programming is based on objects and classes and procedural programming is based on routines and procedures.
+  - I don't know, I did more research on this and came up with the following. Functional programming is based around the patter on functions, while object-oriented programming is based on objects and classes and procedural programming is based on routines and procedures.
 - What is the difference between a typed and non-typed language?
   - I believe the difference is that a typed language requires programmers to define the types of data parameters being passed into a functions to help reduce bugs for example TypeScript and a non-typed language is JavaScript where any data type can be passed into a function as a parameter but it is not checked.
   - to improve on this after some more research i'm going to improve on my terminology, "statically typed" Java and Typescript require type definitions at compile time that can help with debugging, error detection before runtime vs "dynamically typed" like Python and JavaScript determine types at runtime increasing flexibility with the tradeoff of safety.
+  - Corrected Explanation: In reality, all programming languages support types; however, the key distinction lies in how and when types are checked. Statically typed languages like TypeScript perform type checking at compile time, ensuring type correctness before the program runs. Conversely, dynamically typed languages like JavaScript perform type checking at runtime, which allows for more flexibility but increases the risk of runtime type errors.
 
 ## ADVANCED
 
 - What is the difference between a compiled and interpreted language? Is JS compiled or interpreted?
   - I believe that a compiled language is converted into a lower level language before it is run while a interpreted language is run without compilation.
   - update: traditional interpreted languages are executed line by line prior to conversion to machine code. JavaScript uses Just In Time compilation to improve performance.
+  - Updated Explanation: Compiled languages convert code directly into machine language, which the computer's processor then executes. Interpreted languages, on the other hand, are executed by a runtime program without prior conversion to machine code. JavaScript is traditionally considered interpreted because it is commonly executed directly by a web browser. However, modern JavaScript engines use Just-In-Time (JIT) compilation to dynamically compile JavaScript into machine code, thereby enhancing performance.
 
 ## RESOURCES
 - ChatGPT...
 - Claude...
-- try to answer as best I can, then paste in and ask for a 0-100 score, then update based on feedback. 
+- try to answer as best I can, then paste in and ask for a 0-100 score, then update based on feedback.
