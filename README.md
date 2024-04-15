@@ -1,6 +1,6 @@
 # FRACTAL BOOTCAMP: PRECOURSE MATERIALS
 
-These are the pre-course materials for Fractal Bootcamp (https://fractalbootcamp.com/). This repository is meant to be interactive, please submit a Pull Request (PR) and teach you everything you need to be successful in the bootcamp.
+Welcome to the pre-course materials for Fractal Bootcamp (https://fractalbootcamp.com/). This repository is designed to be interactive and prepare you for success in the bootcamp. We encourage you to engage with the content by submitting a Pull Request (PR). By actively participating and completing the exercises, you will gain a strong foundation and be well-equipped to thrive in the bootcamp environment.
 
 This is also a live repository - expect it to change and evolve over time.
 
