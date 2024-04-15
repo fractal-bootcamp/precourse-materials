@@ -67,7 +67,10 @@ A symbol (or short set of symbols) that tells the compiler or interpreter to per
 >> bitwise right shift
 ```
 
+#### Other
 
+```?? nullish coalescing operator, provides a default value for a variable if the original value is null or undefined (e.g. const result = value ?? defaultValue;)
+```
 
 ### What is a character? A string?
 
