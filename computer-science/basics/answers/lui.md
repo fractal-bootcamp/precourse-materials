@@ -43,6 +43,7 @@ A symbol (or short set of symbols) that tells the compiler or interpreter to per
 < less than
 >= greater or equal
 <= less or equal
+=== strictly equals (in value and type)
 ```
 
 #### Logical Operators
@@ -69,7 +70,8 @@ A symbol (or short set of symbols) that tells the compiler or interpreter to per
 
 #### Other
 
-```?? nullish coalescing operator, provides a default value for a variable if the original value is null or undefined (e.g. const result = value ?? defaultValue;)
+```
+?? nullish coalescing operator, provides a default value for a variable if the original value is null or undefined (e.g. const result = value ?? defaultValue;)
 ```
 
 ### What is a character? A string?
