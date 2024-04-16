@@ -19,11 +19,87 @@ DOM stands for **Document Object Model**. It's a programming interface that repr
 
 The DOM structure:
 
-- Root Node: This is the topmost node in the tree, representing the entire document. In HTML, it's usually the <html> element.
-- Element Nodes: These nodes represent the HTML elements that make up the content and structure of the web page. Examples include <div>, <p>, <h1>, etc. Each element node has attributes and properties associated with it.
+- Root Node: This is the topmost node in the tree, representing the entire document. In HTML, it's usually the `<html>` element.
+- Element Nodes: These nodes represent the HTML elements that make up the content and structure of the web page.
 - Text Nodes: These nodes represent the actual textual content within the element nodes.
 - Comment Nodes: These nodes represent comments embedded within the HTML code, which are ignored by the browser but can be useful for developers.
 - Child Nodes: Each element node can have child nodes, which can be other element nodes, text nodes, or comment nodes. This creates a hierarchical tree structure.
+
+
+#### Reference: Some common elements in the DOM
+
+##### Document structure
+- `<html>`: The root element of an HTML page.
+- `<head>`: Contains meta-information about the document.
+- `<body>`: Contains the contents of an HTML document.
+
+##### Text content
+- `<h1>`, `<h2>` ... `<h6>`: Heading elements for section titles.
+- `<p>`: Paragraph element.
+- `<blockquote>`: Block quote element.
+- `<pre>`: Preformatted text.
+- `<div>`: Division or a section in an HTML document.
+
+##### Inline text semantics
+
+- `<span>`: Inline container used to mark up a part of a text, or a part of a document.
+- `<a>`: Anchor element for hyperlinks.
+- `<strong>`: Defines important text.
+- `<em>`: Emphasizes text.
+- `<b>`: Bold text.
+- `<i>`: Italic text.
+- `<u>`: Underlined text.
+- `<sub>`: Subscript text.
+- `<sup>`: Superscript text.
+- `<br>`: Line break.
+
+##### Lists
+- `<ol>`: Ordered list.
+- `<ul>`: Unordered list.
+- `<li>`: List item.
+- `<dl>`: Description list.
+- `<dt>`: Term/name in a description list.
+- `<dd>`: Description of a term/name in a description list.
+
+##### Tables
+- `<table>`: Defines a table.
+- `<caption>`: Table caption.
+- `<th>`: Table header cell.
+- `<tr>`: Table row.
+- `<td>`: Table cell.
+
+##### Forms
+- `<form>`: HTML form for user input.
+- `<input>`: Input field.
+- `<textarea>`: Multi-line text input.
+- `<button>`: Clickable button.
+- `<select>`: Dropdown list.
+- `<option>`: Options within a `<select>` dropdown.
+- `<label>`: Label for an `<input>` element.
+
+##### Sections
+- `<section>`: Section in a document.
+- `<article>`: Independent, self-contained content.
+- `<nav>`: Navigation links.
+- `<aside>`: Sidebar content, tangentially related to the content around it.
+- `<header>`: Introductory content or navigational links.
+- `<footer>`: Footer for a document or section.
+- `<main>`: Dominant content of the `<body>` of a document.
+
+##### Media
+- `<img>`: Image.
+- `<audio>`: Sound content.
+- `<video>`: Video content.
+- `<figure>`: Self-contained content, frequently with a caption (`<figcaption>`).
+- `<figcaption>`: Caption for a figure.
+
+##### Miscellaneous
+- `<iframe>`: Inline frame.
+- `<canvas>`: Drawing surface for JavaScript graphics.
+- `<script>`: Script statements (often JavaScript).
+- `<noscript`>: Defines an alternative content for users that do not support client-side scripts.
+
+
 
 
 ### How do you interact with the DOM?
