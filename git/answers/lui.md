@@ -63,7 +63,7 @@ Commit the changes to the active branch.
 ```
 git push -u origin lui/git
 ```
-Push the active branch to be synced on the remote server. Git will only push changes that are committed.
+Push the named branch (lui/git) to be synced on the remote server. Git will only push changes that are committed.
 (Same as clicking Sync Changes in Source Control in VS Code)
 
 
