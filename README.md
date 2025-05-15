@@ -1,14 +1,17 @@
 # FRACTAL BOOTCAMP: PRE-COURSE MATERIALS
 
-Welcome to the study hub for **[Fractal Bootcamp](https://fractalbootcamp.com/)**.  
-Below are two complementary learning tracks. You will need to complete the **pre-course prep intensive** if you want to feel comfortable on day 1 of bootcamp, so keep that in mind while planning your pre-course prep.
+Welcome to the pre-course prep for **[Fractal Bootcamp](https://fractalbootcamp.com/)**.  
+  
+I've created two programs: the first is a cozy guide to getting started if this is your first time coding, and the second is the real pre-bootcamp prep program, which is the one you will need to complete if you want to feel comfortable on day 1 of bootcamp. Even if you're an experienced coder, you will learn a lot by completing the pre-bootcamp prep.
+
+Here's a summary of each program:
 
 | Outline | Duration | Purpose | Best For |
 |---------|----------|---------|----------|
 | **Getting Started (An Introduction to Coding)** | 3 weeks | Curiosity-driven warm-up that blends animated explainers, Scrimba’s interactive lessons, and foundational readings. | Absolute beginners or anyone who wants a gentle ramp. This is a great and fun introduction to coding, especially if it intimidates you. |
 | **Pre-Bootcamp Prep** | 0–4 weeks | Fast-track ramp-up that mirrors the pace of the bootcamp and the technical check-in. | Paced at approximately 2-4 h/day of focused work. |
 
-> Many students browse *Getting Started* in the evenings while powering through the *Intensive* schedule during the day. Feel free to remix.
+> Many students browse *Getting Started* in the evenings while powering through the *Intensive* schedule during the day. Feel free to remix however you see fit.
 
 ---
 
@@ -18,9 +21,9 @@ Below are two complementary learning tracks. You will need to complete the **pre
 
 I encourage you to jump between resources, depending on what feels good in the moment:
 - If you feel like actually DOING something with code, do the Practice.  
-- If you want to learn concepts, focus on conceptual understanding.  
+- If you want to relax and learn concepts, focus on reading and video explanations.
 
-Enjoying and practicing coding before class is essential to get the most out of our bootcamp. The faster you develop an intuition for coding, the faster you'll fall in love with it as a medium of expression. There is a lot to learn here, but I guarantee you will not regret a second spent on learning to code after graduating from our program, because we will put every bit of your knowledge to work for you, and you will be rewarded for it.
+Enjoying and practicing coding before class is essential to get the most out of our bootcamp. The faster you develop an intuition for coding, the faster you'll fall in love with it as a medium of expression. There is a lot to learn here, but I guarantee you will not regret a second spent on learning to code, because we will put every bit of your knowledge to work for you, and you will be rewarded for it.
 
 | Week | Video Explainers | Interactive Practice (Scrimba) | Deep Reading / Practice |
 |------|-------------------|---------------------------------|-------------------------|
@@ -28,11 +31,25 @@ Enjoying and practicing coding before class is essential to get the most out of 
 | **2** | [100+ JS Concepts] | [Learn JavaScript] · Lessons 1–20 | [Eloquent JS Intro → Ch 7]<br>[Pro Git Ch 1, 2, 6] |
 | **3** | [CS 101 in 13 min] | Finish *Learn JavaScript* · Lessons 21–36<br>Start [Learn React] · Lessons 1–9 | [Full Stack Open Part 0b] |
 
-*Animated videos are optional but highly recommended—they deliver quick “a-ha” moments.*
+*Videos are optional but highly recommended—they deliver quick “a-ha” moments.*
 
 ---
 
 ## Pre-bootcamp Prep - (5 Weeks)
+
+Here's what I need from you before day 1 to succeed:  
+1. Complete Full Stack Open (ESPECIALLY chapters 1-7)  
+2. Complete EloquentJS  
+3. Complete the [React Foundations Course] and [Next JS App Router Course] (these are honestly a delight, do them just for fun)  
+  
+Here is the minimum bar to pass the technical evaluation, in roughly this order of importance:
+1. EloquentJS Ch 1-4  
+2. Full Stack Open Ch 0-3 (memorize how to build a server and fetch from react!!)  
+3. The [React Foundations Course]  
+4. [Next JS App Router Course]  
+
+And here is a schedule that will get everything done, if you work at it for 2-4hr per day, consistently, every day.
+Remember, you can work from our co-working space if you've paid the deposit for the bootcamp.  
 
 | Week | Full Stack Open | Eloquent JS | Fundamentals Reading | LeetCode | Other |
 |------|-----------------|-------------|----------------------|----------|-------|
@@ -43,21 +60,9 @@ Enjoying and practicing coding before class is essential to get the most out of 
 | **4** | [Part 9]<br>[Part 13] | [Chapters 16-19] | [Computer Science] | [Two Sum]<br>[Fizz Buzz] | — |
 
 *Why this sequence?*  
-Full Stack Open gives modern project work, **Eloquent JS** sharpens language mastery, focused readings plug conceptual gaps, LeetCode seeds algorithmic thinking, and the “Other” column brings in Next.js—critical to the bootcamp stack.
+Full Stack Open is the best online web development course we have found, and **Eloquent JS** is the best Javascript book. The NextJS app router course is critical to coming in on day 1 with experience in NextJS.
 
 ---
-
-### Instructions, Guidelines & Tactical Tips
-
-* Branch off a feature branch (`git checkout -b your_name/module_name`), create `answers/your_name.md`, answer the questions, commit, push, and open a PR.
-* Don’t copy-paste answers—explain concepts in your own words.
-* Whenever you hit an unfamiliar term, jot it down and define it.
-* Use the terminal as much as possible.
-* Find a great resource? Add it to the repo and PR it—future students will thank you.
-
----
-
-### Link Reference Definitions
 
 [Part 0 – Fundamentals of Web Apps]: https://fullstackopen.com/en/part0/fundamentals_of_web_apps  
 [Part 1]: https://fullstackopen.com/en/part1  
