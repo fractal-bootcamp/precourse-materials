@@ -45,6 +45,7 @@ Here's what I need from you before day 1 to succeed:
 1. Complete Full Stack Open (ESPECIALLY chapters 1-7)  
 2. Complete EloquentJS  
 3. Complete the [React Foundations Course] and [Next JS App Router Course] (these are honestly a delight, do them just for fun)  
+4. Complete the [Fundamental Readings](SCHEDULE.md) and make a pull request with your answers to the questions.
   
 Here is the minimum bar to pass the technical evaluation, in roughly this order of importance:
 1. EloquentJS Ch 1-4  
