@@ -45,7 +45,7 @@ Here's what I need from you before day 1 to succeed:
 1. Complete Full Stack Open (ESPECIALLY chapters 1-7)  
 2. Complete EloquentJS  
 3. Complete the [React Foundations Course] and [Next JS App Router Course] (these are honestly a delight, do them just for fun)  
-4. Complete the [Fundamental Readings](SCHEDULE.md) and make a pull request with your answers to the questions.
+4. Complete the [Fundamental Readings](FUNDAMENTALS.md) and make a pull request with your answers to the questions.
   
 Here is the minimum bar to pass the technical evaluation, in roughly this order of importance:
 1. EloquentJS Ch 1-4  
@@ -58,11 +58,11 @@ Remember, you can work from our co-working space if you've paid the deposit for 
 
 | Week | Full Stack Open | Eloquent JS | Fundamentals Reading | LeetCode | Other |
 |------|-----------------|-------------|----------------------|----------|-------|
-| **0** | [Part 0 – Fundamentals of Web Apps] | — | [Getting Started](SCHEDULE.md#getting-started) | — | [React Foundations Course] |
-| **1** | [Part 1]<br>[Part 2]<br>[Part 3] | [Chapters 1-5] | [Basics](SCHEDULE.md#basics) | — | — |
-| **2** | [Part 4]<br>[Part 5] | [Chapters 6-8]<br>[Chapters 10-11] | [Frontend](SCHEDULE.md#frontend) | [Palindrome Number] | [Next JS App Router Course] |
-| **3** | [Part 6]<br>[Part 7] | [Chapters 12-15] | [Backend](SCHEDULE.md#backend) | [Roman to Integer] | — |
-| **4** | [Part 9]<br>[Part 13] | [Chapters 16-19] | [Advanced Computer Science](SCHEDULE.md#advanced-computer-science) | [Two Sum]<br>[Fizz Buzz] | — |
+| **0** | [Part 0 – Fundamentals of Web Apps] | — | [Getting Started](FUNDAMENTALS.md#getting-started) | — | [React Foundations Course] |
+| **1** | [Part 1]<br>[Part 2]<br>[Part 3] | [Chapters 1-5] | [Basics](FUNDAMENTALS.md#basics) | — | — |
+| **2** | [Part 4]<br>[Part 5] | [Chapters 6-8]<br>[Chapters 10-11] | [Frontend](FUNDAMENTALS.md#frontend) | [Palindrome Number] | [Next JS App Router Course] |
+| **3** | [Part 6]<br>[Part 7] | [Chapters 12-15] | [Backend](FUNDAMENTALS.md#backend) | [Roman to Integer] | — |
+| **4** | [Part 9]<br>[Part 13] | [Chapters 16-19] | [Advanced Computer Science](FUNDAMENTALS.md#advanced-computer-science) | [Two Sum]<br>[Fizz Buzz] | — |
 
 *Why this sequence?*  
 Full Stack Open is the best online web development course we have found, and **Eloquent JS** is the best Javascript book. The NextJS app router course is critical to coming in on day 1 with experience in NextJS.
