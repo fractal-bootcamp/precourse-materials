@@ -35,7 +35,7 @@ Enjoying and practicing coding before class is essential to get the most out of 
 | **2** | [100+ JS Concepts] | [Learn JavaScript] · Lessons 1–20 | [Eloquent JS Intro → Ch 7]<br>[Pro Git Ch 1, 2, 6] |
 | **3** | [CS 101 in 13 min] | Finish *Learn JavaScript* · Lessons 21–36<br>Start [Learn React] · Lessons 1–9 | [Full Stack Open Part 0b] |
 
-*Videos are optional but highly recommended—they deliver quick “a-ha” moments.*
+*Videos are optional but highly recommended—they deliver quick "a-ha" moments.*
 
 ---
 
@@ -57,11 +57,11 @@ Remember, you can work from our co-working space if you've paid the deposit for 
 
 | Week | Full Stack Open | Eloquent JS | Fundamentals Reading | LeetCode | Other |
 |------|-----------------|-------------|----------------------|----------|-------|
-| **0** | [Part 0 – Fundamentals of Web Apps] | — | - | — | [React Foundations Course] |
-| **1** | [Part 1]<br>[Part 2]<br>[Part 3] | [Chapters 1-5] | [Getting Started Basics] | — | — |
-| **2** | [Part 4]<br>[Part 5] | [Chapters 6-8]<br>[Chapters 10-11] | [Frontend] | [Palindrome Number] | [Next JS App Router Course] |
-| **3** | [Part 6]<br>[Part 7] | [Chapters 12-15] | [Backend] | [Roman to Integer] | — |
-| **4** | [Part 9]<br>[Part 13] | [Chapters 16-19] | [Computer Science] | [Two Sum]<br>[Fizz Buzz] | — |
+| **0** | [Part 0 – Fundamentals of Web Apps] | — | [Getting Started](SCHEDULE.md#getting-started) | — | [React Foundations Course] |
+| **1** | [Part 1]<br>[Part 2]<br>[Part 3] | [Chapters 1-5] | [Basics](SCHEDULE.md#basics) | — | — |
+| **2** | [Part 4]<br>[Part 5] | [Chapters 6-8]<br>[Chapters 10-11] | [Frontend](SCHEDULE.md#frontend) | [Palindrome Number] | [Next JS App Router Course] |
+| **3** | [Part 6]<br>[Part 7] | [Chapters 12-15] | [Backend](SCHEDULE.md#backend) | [Roman to Integer] | — |
+| **4** | [Part 9]<br>[Part 13] | [Chapters 16-19] | [Advanced Computer Science](SCHEDULE.md#advanced-computer-science) | [Two Sum]<br>[Fizz Buzz] | — |
 
 *Why this sequence?*  
 Full Stack Open is the best online web development course we have found, and **Eloquent JS** is the best Javascript book. The NextJS app router course is critical to coming in on day 1 with experience in NextJS.
