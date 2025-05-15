@@ -13,7 +13,7 @@ Here's a summary of each program:
 | Outline | Duration | Purpose | Best For |
 |---------|----------|---------|----------|
 | **Getting Started (An Introduction to Coding)** | 3 weeks | Curiosity-driven warm-up that blends animated explainers, Scrimba’s interactive lessons, and foundational readings. | Absolute beginners or anyone who wants a gentle ramp. This is a great and fun introduction to coding, especially if it intimidates you. |
-| **Pre-Bootcamp Prep** | 0–4 weeks | Fast-track ramp-up that mirrors the pace of the bootcamp and the technical check-in. | Paced at approximately 2-4 h/day of focused work. |
+| **Pre-Bootcamp Prep** | 5 weeks | Fast-track ramp-up that mirrors the pace of the bootcamp and the technical check-in. | Paced at approximately 2-4 h/day of focused work. |
 
 > Many students browse *Getting Started* in the evenings while powering through the *Intensive* schedule during the day. Feel free to remix however you see fit.
 
