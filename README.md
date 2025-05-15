@@ -15,11 +15,11 @@ I've divided your Intro To Coding into four main parts:
 - 1b. Concepts (Deep)
 - 2b. Practice (Deep)  
 
-I encourage you to jump between resources, depending on what feels good at the moment: 
-- If you feel like actually DOING something with code, try **Practice**.
+I encourage you to jump between resources, depending on what feels good in the moment: 
+- If you feel like actually DOING something with code, do the **Practice**.
 - If you want to learn concepts, focus on conceptual understanding.
 
-Enjoying and practicing coding before class will go a **long way** in helping understand the fundamentals of programming, and help you get the most out of the course. The faster you develop an intuition for coding, the faster you'll fall in love with it as a medium of expression.
+Enjoying and practicing coding before class is **essential** to get the most out of our bootcamp. The faster you develop an intuition for coding, the faster you'll fall in love with it as a medium of expression. There is a lot to learn here, but I guarantee you will not regret a second spent on learning to code after graduating from our program, because we will put every bit of your knowledge to work for you, and you will be rewarded for it.
 
 ### 1a\. Concept (Intro)
 Animated videos are the best shallow introduction to any subject. Hence your nostalgia for Magic School Bus.
@@ -51,7 +51,9 @@ Feel free to skip around or speed up if it's too slow.
 
 ### 2b\. Practice (Deep)
 Fullstack Open is the best free online bootcamp. Working through this will prepare you immensely for our bootcamp and increase your velocity a ton!  
-- [FullStack Open](https://fullstackopen.com/en/)  
+- [FullStack Open](https://fullstackopen.com/en/)
+- [React Foundations Course](https://nextjs.org/learn/react-foundations)
+- [NextJS App Router Foundations](https://nextjs.org/learn/dashboard-app)
 
 ### BONUS\. Inspiration + Memes
 
