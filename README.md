@@ -2,9 +2,13 @@
 
 Welcome to the pre-course prep for **[Fractal Bootcamp](https://fractalbootcamp.com/)**.  
   
-I've created two programs: the first is a cozy guide to getting started if this is your first time coding, and the second is the real pre-bootcamp prep program, which is the one you will need to complete if you want to feel comfortable on day 1 of bootcamp. Even if you're an experienced coder, you will learn a lot by completing the pre-bootcamp prep.
+I've created two programs:  
+1. the first is a cozy guide to getting started if this is your first time coding, and  
+2. the second is the real pre-bootcamp prep program, which is the one you will need to complete if you want to feel comfortable on day 1 of bootcamp.  
 
-Here's a summary of each program:
+Even if you're an experienced coder, you will learn a lot by completing the pre-bootcamp prep.  
+
+Here's a summary of each program:  
 
 | Outline | Duration | Purpose | Best For |
 |---------|----------|---------|----------|
