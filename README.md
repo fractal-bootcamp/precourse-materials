@@ -36,7 +36,7 @@ Enjoying and practicing coding before class is essential to get the most out of 
 
 | Week | Full Stack Open | Eloquent JS | Fundamentals Reading | LeetCode | Other |
 |------|-----------------|-------------|----------------------|----------|-------|
-| **0** | [Part 0 – Fundamentals of Web Apps] | — | [React Foundations Course] | — | — |
+| **0** | [Part 0 – Fundamentals of Web Apps] | — | - | — | [React Foundations Course] |
 | **1** | [Part 1]<br>[Part 2]<br>[Part 3] | [Chapters 1-5] | [Getting Started Basics] | — | — |
 | **2** | [Part 4]<br>[Part 5] | [Chapters 6-8]<br>[Chapters 10-11] | [Frontend] | [Palindrome Number] | [Next JS App Router Course] |
 | **3** | [Part 6]<br>[Part 7] | [Chapters 12-15] | [Backend] | [Roman to Integer] | — |
