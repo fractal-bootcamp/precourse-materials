@@ -1,104 +1,104 @@
-# FRACTAL BOOTCAMP: PRECOURSE MATERIALS
+# FRACTAL BOOTCAMP: PRE-COURSE MATERIALS
 
-These are the pre-course materials for Fractal Bootcamp (https://fractalbootcamp.com/). This repository is meant to be interactive (please PR) and teach you everything you need to be successful in the bootcamp.
+Welcome to the study hub for **[Fractal Bootcamp](https://fractalbootcamp.com/)**.  
+Below are two complementary learning tracks. You will need to complete the **pre-course prep intensive** if you want to feel comfortable on day 1 of bootcamp, so keep that in mind while planning your pre-course prep.
 
-This is also a live repository - expect it to change and evolve over time.
+| Outline | Duration | Purpose | Best For |
+|---------|----------|---------|----------|
+| **Getting Started (An Introduction to Coding)** | 3 weeks | Curiosity-driven warm-up that blends animated explainers, Scrimba’s interactive lessons, and foundational readings. | Absolute beginners or anyone who wants a gentle ramp. This is a great and fun introduction to coding, especially if it intimidates you. |
+| **Pre-Bootcamp Prep Intensive** | 0–4 weeks | Fast-track ramp-up that mirrors the pace of the bootcamp and the technical check-in. | Paced at approximately 2-4 h/day of focused work. |
 
-## Getting Started (An Introduction to Coding):
-If you are totally new to programming, START HERE.
+> Many students browse *Getting Started* in the evenings while powering through the *Intensive* schedule during the day. Feel free to remix.
 
-`NOTE: when learning to code, ALWAYS engage your curiosity. If you want to know why/how something works, ask ChatGPT, Youtube, or Google! (in roughly that order).`
+---
 
-I've divided your Intro To Coding into four main parts:  
-- 1a. Concept (Intro)
-- 2a. Practice (Intro)
-- 1b. Concepts (Deep)
-- 2b. Practice (Deep)  
+## Getting Started (An Introduction to Coding) — 3-Week Plan
 
-I encourage you to jump between resources, depending on what feels good in the moment: 
-- If you feel like actually DOING something with code, do the **Practice**.
-- If you want to learn concepts, focus on conceptual understanding.
+`NOTE: when learning to code, ALWAYS engage your curiosity. If you want to know why/how something works, ask ChatGPT, Youtube, or Google! (in roughly that order).`  
 
-Enjoying and practicing coding before class is **essential** to get the most out of our bootcamp. The faster you develop an intuition for coding, the faster you'll fall in love with it as a medium of expression. There is a lot to learn here, but I guarantee you will not regret a second spent on learning to code after graduating from our program, because we will put every bit of your knowledge to work for you, and you will be rewarded for it.
+I encourage you to jump between resources, depending on what feels good in the moment:
+- If you feel like actually DOING something with code, do the Practice.  
+- If you want to learn concepts, focus on conceptual understanding.  
 
-### 1a\. Concept (Intro)
-Animated videos are the best shallow introduction to any subject. Hence your nostalgia for Magic School Bus.
+Enjoying and practicing coding before class is essential to get the most out of our bootcamp. The faster you develop an intuition for coding, the faster you'll fall in love with it as a medium of expression. There is a lot to learn here, but I guarantee you will not regret a second spent on learning to code after graduating from our program, because we will put every bit of your knowledge to work for you, and you will be rewarded for it.
 
-#### The best videos explaining web development:
-- [Web Dev 101 in 13 minutes](https://www.youtube.com/watch?v=erEgovG9WBs) (13 min)  
-- [Javascript in 100 seconds](https://www.youtube.com/watch?v=DHjqpvDnNGE) (2 min)  
-- [100+ Javascript Concepts](https://www.youtube.com/watch?v=lkIFF4maKMU) (12 min)  
-- [Git in 100 seconds](https://www.youtube.com/watch?v=hwP7WQkmECE) (2 min)  
-- [CS 101 in 13 min](https://www.youtube.com/watch?v=-uleG_Vecis) (13 min)  
+| Week | Video Explainers | Interactive Practice (Scrimba) | Deep Reading / Practice |
+|------|-------------------|---------------------------------|-------------------------|
+| **1** | [Web Dev 101 (13 min)]<br>[Git in 100 sec]<br>[JS in 100 sec] | [Learn HTML + CSS] · Lessons 1–15 | — |
+| **2** | [100+ JS Concepts] | [Learn JavaScript] · Lessons 1–20 | [Eloquent JS Intro → Ch 7]<br>[Pro Git Ch 1, 2, 6] |
+| **3** | [CS 101 in 13 min] | Finish *Learn JavaScript* · Lessons 21–36<br>Start [Learn React] · Lessons 1–9 | [Full Stack Open Part 0b] |
 
-### 2a\. Practice (Intro)
-The best introductory resource for practicing code is a tutorial.
-The best tutorials are interactive, and that's where Scrimba comes in.
+*Animated videos are optional but highly recommended—they deliver quick “a-ha” moments.*
 
-#### Work through these Scrimba courses, in order, as long as they are challenging:
-- [Learn HTML + CSS](https://scrimba.com/learn/htmlandcss)  
-- [Learn Javascript](https://scrimba.com/learn/learnjavascript)  
-- [Learn React](https://scrimba.com/learn/learnreact)  
+---
 
-Feel free to skip around or speed up if it's too slow.
+## Intensive Pre-Course Outline (0 – 4 Weeks)
 
-### 1b\. Concept (Deep)
+| Week | Full Stack Open | Eloquent JS | Fundamentals Reading | LeetCode | Other |
+|------|-----------------|-------------|----------------------|----------|-------|
+| **0** | [Part 0 – Fundamentals of Web Apps] | — | [React Foundations Course] | — | — |
+| **1** | [Part 1]<br>[Part 2]<br>[Part 3] | [Chapters 1-5] | [Getting Started Basics] | — | — |
+| **2** | [Part 4]<br>[Part 5] | [Chapters 6-8]<br>[Chapters 10-11] | [Frontend] | [Palindrome Number] | [Next JS App Router Course] |
+| **3** | [Part 6]<br>[Part 7] | [Chapters 12-15] | [Backend] | [Roman to Integer] | — |
+| **4** | [Part 9]<br>[Part 13] | [Chapters 16-19] | [Computer Science] | [Two Sum]<br>[Fizz Buzz] | — |
 
-#### Readings (more detailed):
-- [EloquentJS](https://eloquentjavascript.net/): **Introduction through Chapter 7 [recommended]**  
-- [Pro Git](https://git-scm.com/book/en/v2): Chapters 1, 2, and 6  
-- [FullStack Open](https://fullstackopen.com/en/): Part [0b](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)  
+*Why this sequence?*  
+Full Stack Open gives modern project work, **Eloquent JS** sharpens language mastery, focused readings plug conceptual gaps, LeetCode seeds algorithmic thinking, and the “Other” column brings in Next.js—critical to the bootcamp stack.
 
-### 2b\. Practice (Deep)
-Fullstack Open is the best free online bootcamp. Working through this will prepare you immensely for our bootcamp and increase your velocity a ton!  
-- [FullStack Open](https://fullstackopen.com/en/)
-- [React Foundations Course](https://nextjs.org/learn/react-foundations)
-- [NextJS App Router Foundations](https://nextjs.org/learn/dashboard-app)
+---
 
-### BONUS\. Inspiration + Memes
+### Instructions, Guidelines & Tactical Tips
 
-#### Videos:  
-- [Javascript for Haters](https://www.youtube.com/watch?v=aXOChLn5ZdQ) (3 min)  
-- [Inventing on Principle](https://vimeo.com/906418692), Bret Victor (54 min -- this is a long talk about the sorts of things we can still invent with computers, not about learning programming)  
+* Branch off a feature branch (`git checkout -b your_name/module_name`), create `answers/your_name.md`, answer the questions, commit, push, and open a PR.
+* Don’t copy-paste answers—explain concepts in your own words.
+* Whenever you hit an unfamiliar term, jot it down and define it.
+* Use the terminal as much as possible.
+* Find a great resource? Add it to the repo and PR it—future students will thank you.
 
-#### Essays:
-- [Hackers and Painters](https://www.paulgraham.com/hp.html), Paul Graham  
-- [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (famous Bloomberg piece on coding culture)   
-- [Don't feel bad about not knowing basic things](https://web.archive.org/web/20220118015340/https://adamzerner.bearblog.dev/dont-feel-bad-about-not-knowing-basic-things/)  
+---
 
+### Link Reference Definitions
 
-## INSTRUCTIONS
+[Part 0 – Fundamentals of Web Apps]: https://fullstackopen.com/en/part0/fundamentals_of_web_apps  
+[Part 1]: https://fullstackopen.com/en/part1  
+[Part 2]: https://fullstackopen.com/en/part2  
+[Part 3]: https://fullstackopen.com/en/part3  
+[Part 4]: https://fullstackopen.com/en/part4  
+[Part 5]: https://fullstackopen.com/en/part5  
+[Part 6]: https://fullstackopen.com/en/part6  
+[Part 7]: https://fullstackopen.com/en/part7  
+[Part 9]: https://fullstackopen.com/en/part9  
+[Part 13]: https://fullstackopen.com/en/part13  
 
-For each folder, go through the relevant modules or submodules and read the questions.
+[Chapters 1-5]: https://eloquentjavascript.net/01_values.html  
+[Chapters 6-8]: https://eloquentjavascript.net/06_object.html  
+[Chapters 10-11]: https://eloquentjavascript.net/10_modules.html  
+[Chapters 12-15]: https://eloquentjavascript.net/12_language.html  
+[Chapters 16-19]: https://eloquentjavascript.net/16_canvas.html  
 
-For each module:
+[Getting Started Basics]: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web  
+[Frontend]: https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer  
+[Backend]: https://developer.mozilla.org/en-US/docs/Learn/Server-side  
+[Computer Science]: https://teachyourselfcs.com/  
 
-1. Check out a new git branch, called `${your_name}/${module_name}`. If you don't know what this is or how to do it via the command line, read the git and terminal basics sections.
+[Palindrome Number]: https://leetcode.com/problems/palindrome-number  
+[Roman to Integer]: https://leetcode.com/problems/roman-to-integer  
+[Two Sum]: https://leetcode.com/problems/two-sum  
+[Fizz Buzz]: https://leetcode.com/problems/fizz-buzz  
 
-2. Create a new file `${your_name}.md`, under the `answers` folder in the module.* (bonus: use the terminal to do this)
+[React Foundations Course]: https://nextjs.org/learn/react-foundations  
+[Next JS App Router Course]: https://nextjs.org/learn/dashboard-app  
 
-3. Copy the answers in the module's `README.md` into your file. (bonus: use the terminal to do this)
+[Web Dev 101 (13 min)]: https://www.youtube.com/watch?v=erEgovG9WBs  
+[JS in 100 sec]: https://www.youtube.com/watch?v=DHjqpvDnNGE  
+[100+ JS Concepts]: https://www.youtube.com/watch?v=lkIFF4maKMU  
+[Git in 100 sec]: https://www.youtube.com/watch?v=hwP7WQkmECE  
+[CS 101 in 13 min]: https://www.youtube.com/watch?v=-uleG_Vecis  
 
-4. Read through the resources and do your own research online. Drawing on your understanding, answer the questions in the your answer file.
+[Learn HTML + CSS]: https://scrimba.com/learn/htmlandcss  
+[Learn JavaScript]: https://scrimba.com/learn/learnjavascript  
+[Learn React]: https://scrimba.com/learn/learnreact  
 
-5. Save and commit your new file. Create a pull request (PR) from your branch to the main branch. Add @jakezegil and/or a friend as the PR reviewer. (bonus: use the terminal to do this)
-
-*see `computer-science/basics/answers/jake-zegil.md` for an example submission
-
-## GUIDELINES
-
-Refer to the `SCHEDULE.md` (WIP) for the recommended sequencing. This is not prescriptive - feel free to jump around or skip modules that you're already familiar with.
-
-There's no rules - reading through other's answers or working with a partner can be really helpful for learning. But please, for your own sake, don't copy and paste things. Framing your understanding in your own words is a powerful and valuable exercise.
-
-ChatGPT is a great resource for having conversations about many of these questions and topics.
-
-## TACTICAL TIPS
-
-Whenever you see a word that you don't fully understand, write it down and define it.
-
-Everything that is in this repository matters for writing software, and many things relate to each other. Always ask yourself, how does this relate to the other concepts that I've learned?
-
-Use the terminal as much possible.
-
-If you come across a super helpful resource for a given module, add it to the module readme and open up a PR. Help the future students!
+[Eloquent JS Intro → Ch 7]: https://eloquentjavascript.net/  
+[Pro Git Ch 1, 2, 6]: https://git-scm.com/book/en/v2  
+[Full Stack Open Part 0b]: https://fullstackopen.com/en/part0/fundamentals_of_web_apps  
