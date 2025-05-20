@@ -67,6 +67,19 @@ Remember, you can work from our co-working space if you've paid the deposit for 
 *Why this sequence?*  
 Full Stack Open is the best online web development course we have found, and **Eloquent JS** is the best Javascript book. The NextJS app router course is critical to coming in on day 1 with experience in NextJS.
 
+### The Pre-course Exam:
+To pass the pre-course exam, you should be able to easily and fluidly do something like this, without looking anything up:
+1. Setup express server
+2. Get a GET endpoint working
+3. Test endpoint in browser
+4. Setup react app
+5. useEffect fetch data from server
+6. render data
+7. test that everything works (do not forget cors lol)
+8. setup input field
+9. deliver content of input field to server via a POST request
+10. handle that input on the server (save to a log file, etc)
+
 ---
 
 [Part 0 – Fundamentals of Web Apps]: https://fullstackopen.com/en/part0/fundamentals_of_web_apps  
