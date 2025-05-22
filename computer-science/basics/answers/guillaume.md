@@ -7,7 +7,7 @@ It can be formatted in standard ways (like JSON, markdown, etc) for easier use a
 It can be compressed or manipulated for efficiency
 
 What is an algorithm?
-It's a well defined set of rules or steps to transform data, solve problems or accomplish a sepcific task.
+It's a well defined set of rules or steps to transform data, solve problems or accomplish a specific task.
 It has specific inputs and outputs (for example input a word and output a sound for text to voice generators)
 In most cases it's set to terminate after a finite number of steps.
 There is consideration for efficiency, as little steps and energy expenditure as possible.
@@ -18,8 +18,8 @@ It may accept input data (parameters), execute a series of operations, and optio
 Functions promote code reusability, readability through descriptive naming, testability, and help manage complexity through abstraction.
 
 What is function scope? What is a block scope? What is global scope?
-varaibles created within a function scope are only visible/accessible within that function.
-block scope is generally what is between curcly brackets, if, switch conditions or for and while loops.
+variables created within a function scope are only visible/accessible within that function.
+block scope is generally what is between curly brackets, if, switch conditions or for and while loops.
 
 What is a variable?
 A variable is a named storage location in memory that holds data values which can be accessed and modified during program execution. 
@@ -27,7 +27,7 @@ In JavaScript, variables can be declared using let, const, or var keywords, and 
 
 What is a data type?
 A data type defines a format for acceptable data. Data types can be primitive (string, number, boolean, etc.) or complex (objects such as arrays, functions, etc.)
-Some coding languages are loose around types (JS is dynamically typed) while others such as Type Script have stronger type enforcement (statically typed).
+Some coding languages are loose around types (JS is dynamically typed) while others such as TypeScript have stronger type enforcement (statically typed).
 Data types also determine what operations can be performed on the data.
 
 What is a data structure? What are some examples?
@@ -55,7 +55,7 @@ A state is the condition or data values of an application at a specific point in
 It's like a snapshot of all the information that the program is currently tracking or remembering.
 This is what allows an application to:
 be interactive and dynamic
-maintain consistency across user intereactions
+maintain consistency across user interactions
 
 What is an interface?
 Mainly refers to a UI (User Interface) or API (Application Programming Interfaces)
