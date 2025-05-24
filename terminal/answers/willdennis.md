@@ -25,7 +25,7 @@
 20. killall AppName: force quit an app
 
 - What is a terminal? A CLI? Why are they synonymous?
-Terminal is the program, CLI is the interface. Not exactly synonomous but semantically seem pretty close. 
+Terminal is the program, CLI is the interface. Not exactly synonomous but semantically seem pretty close 
 
 - What is the difference between bash and zsh?
 Zsh contains bash features, plus even more -- like spell checking and other programming features
