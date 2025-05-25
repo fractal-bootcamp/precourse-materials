@@ -3,7 +3,7 @@ Data is information stored on the computer. It can take the form of text, audio,
 #### What is an algorithm?
 An algorithm is a set of instructions given to a computer. An algorithm will take an input, follow the steps laid out in the instructions, and produce an output.
 #### What is a function?
-A function is a set of instructions that accepts an arguments and performs a specific task on them. Functions are reusable and they may or may not take an input.
+A function is a set of instructions that accepts arguments and performs a specific task on them. Functions are reusable and they may or may not take an input.
 #### What is function scope? What is a block scope? What is global scope?
 The function scope means that variables declared inside of a function are only accessible within that function. A block scope similarly prevents a variable from being accessible outside of the block, usually signified by curly brackets {}. Global scope means that variables are accessible from anywhere in the program. In js this is done with var.
 #### What is a variable?
