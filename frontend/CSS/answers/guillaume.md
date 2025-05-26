@@ -4,7 +4,7 @@ Cascading because for example a general rule about paragraph will be overwritten
 It's used to style all aesthetics such layout, colors, sizes etc.
 
 What is a CSS pre-processor? Can you give some examples?
-A pre-processor will let us write CSS with extra features (like variables, functions, nesting, etc.). They they compile or transform the enhanced CSS into regular CSS.
+A pre-processor will let us write CSS with extra features (like variables, functions, nesting, etc.). They compile or transform the enhanced CSS into regular CSS.
 
 Most common examples are:
 Sass/SCSS - lets you use variables, nesting, mixins
