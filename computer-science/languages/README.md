@@ -9,7 +9,7 @@
 - What is the difference between a programming language vs a framework?
   A programming language provides the syntax and rules for writing code while a framework is a collection of pre-written code, libraries, and tools meant to simplify and speed up the development process
 - What is the difference between a procedural, object-oriented, and functional programming language?
-  Procedural programming languages are based on the concept fo procedure calls or functions. Object oriented functions are based on the concept of "objects" that encapsulates data and behavior. Functional programming invovles programs that are constructed by applying and writing pure functions.
+  Procedural programming languages are based on the concept of procedure calls or functions. Object-oriented programming languages are based on the concept of "objects" that encapsulate data and behavior. Functional programming involves programs that are constructed by applying and writing pure functions.
 - What is the difference between a typed and non-typed language?
   A typed language enforces strict rules about how values of different types can be used, while non-typed languages allow variables to be in any form
 
