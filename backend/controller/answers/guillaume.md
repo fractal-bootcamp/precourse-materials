@@ -32,7 +32,7 @@ Good for configuration files
 JSON is usually preferred for web APIs and data exchange, while XML might be used for complex documents or when strict validation is needed. 
 We use these standardized formats so all parties have a common language for data communication.
 
-What is a http request? A http response?
+What is an HTTP request? An HTTP response?
 An HTTP request goes to the server and contains a method (GET, POST, PUT, DELETE), a URL/endpoint, headers, and maybe a body with data.
 An HTTP response comes from the server and contains a status code, headers, and a body with data.
 For example, a GET request to /users/123 might return a 200 status code with JSON data containing the user's information.
