@@ -9,7 +9,7 @@
 - What does DOM stand for? What is the structure of the DOM?
   Document Object Model. It is a tree-like structure comprised of nodes.
 - How do you interact with the DOM?
-  You interact with the dom via via the document object
+  You interact with the DOM via the document object
 - What does HTML stand for? What is it? Why is it important?
   Hypertext Markup Language. It defines the structure and content of a webpage
 
