@@ -23,7 +23,7 @@
     interprets & processes it.
 * What is a data structure? What are some examples?
   * An organizational method for storing and arranging data in a computer's memory, 
-    like an array, list, dictionary (a key/value pair), stack, que, or tree.
+    like an array, list, dictionary (a key/value pair), stack, queue, or tree.
 * What is a web server?
   * A computer that stores websites' files and delivers content to users' browsers 
     over the internet.
