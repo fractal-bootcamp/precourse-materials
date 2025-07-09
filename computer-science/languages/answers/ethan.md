@@ -36,8 +36,7 @@
     languages. These languages are read by an interpreter engine and 'interpreted' line by 
     line top to bottom left to right JavaScript can be "Just In Time" compiled within 
     a modern browser via an engine (Chrome V8, SpiderMonkey, etc.). However, broadly 
-    speaking, a 
-    compiled language is translates code all at 
-    once by a compiler into a self-contained executable file. This usually results in 
-    a faster runtime, a program that can be distributed easier and catches errors 
+    speaking, a compiled language translates the code all at once by a compiler into a
+    self-contained executable file. This usually results in a faster runtime, a
+    program that can be distributed easier and catches errors 
     upfront before the end-user interacts with the program.
