@@ -4,7 +4,7 @@
 
 * What is the difference between typescript and javascript? Why would you use 
   typescript over javascript?
-  * TypeScript is a superset of JS that add static type checking to catch errors 
+  * TypeScript is a superset of JS that adds static type checking to catch errors 
     before your code runs, thus making dev easier and potentially saving time/money.
 * What are the base types used in typescript?
   1. string
