@@ -31,9 +31,9 @@ Enjoying and practicing coding before class is essential to get the most out of 
 
 | Week | Video Explainers | Interactive Practice (Scrimba) | Deep Reading / Practice |
 |------|-------------------|---------------------------------|-------------------------|
-| **1** | [Web Dev 101 (13 min)]<br>[Git in 100 sec]<br>[JS in 100 sec] | [Learn HTML + CSS] · Lessons 1–15 | — |
-| **2** | [100+ JS Concepts] | [Learn JavaScript] · Lessons 1–20 | [Eloquent JS Intro → Ch 7]<br>[Pro Git Ch 1, 2, 6] |
-| **3** | [CS 101 in 13 min] | Finish *Learn JavaScript* · Lessons 21–36<br>Start [Learn React] · Lessons 1–9 | [Full Stack Open Part 0b] |
+| **1** | [CS 101 in 13 min] <br> [Web Dev 101 (13 min)]<br>[Git in 100 sec]<br>[JS in 100 sec] <br> [100+ JS Concepts] | [Learn HTML + CSS] | — |
+| **2** |  | [Learn JavaScript] | [Eloquent JS Intro → Ch 7]<br>[Pro Git Ch 1, 2, 6] |
+| **3** |  | [Learn React] | [Full Stack Open Part 0b] |
 
 *Videos are optional but highly recommended—they deliver quick "a-ha" moments.*
 
