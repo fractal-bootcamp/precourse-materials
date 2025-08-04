@@ -41,6 +41,8 @@ I've created two programs:
 
 Even if you're an experienced coder, you will learn a lot by completing the pre-bootcamp prep.  
 
+### NOTE: PLEASE PLEASE PLEASE DO NOT USE AI AUTOCOMPLETE IN YOUR CODE. YOU WILL LEARN LITERALLY NOTHING. AS SOON AS YOU TURN IT OFF, ALL YOUR KNOWLEDGE WILL EVAPORATE. PLEASE DO NOT!!! YOU WILL NOT PASS THE TECHNICAL.
+
 Here's a summary of each program:  
 
 | Outline | Duration | Purpose | Best For |
