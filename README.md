@@ -1,10 +1,43 @@
-# FRACTAL BOOTCAMP: PRE-COURSE MATERIALS
+# FRACTAL BOOTCAMP: PRE-COURSE REQUIREMENTS
+
+Welcome to **[Fractal Bootcamp](https://fractalbootcamp.com/)**!!
+
+Our program is intense, immersive, and a lot of fun, but it also has some pre-requisite requirements if you want to be comfortable on day 1.
+
+The only true requirement is passing the following pre-course evaluation, which represents the minimum competency you need to feel comfortable in our program.
+
+If you do not know how to pass this pre-course already, in any language, I've also put together a comprehensive self-guided course to learn.
+
+If you are worried about this, please do not fail silently. I know you're busy, and I know this a lot.
+
+If you're serious about the program, and you've already paid the deposit, we can create a custom plan with you to triage your prep in an emergency.
+
+That being said, if you have the time, the full pre-course program is a GREAT introduction to web development and will not let you down. I'd recommend this program even to many senior engineers to fill in gaps in their knowledge.
+
 
 Welcome to the pre-course prep for **[Fractal Bootcamp](https://fractalbootcamp.com/)**.  
+
+### The Pre-course Eval:
+To pass the pre-course eval, you should be able to easily and fluidly do something like this, without looking anything up:
+
+1. Setup express server
+2. Get a GET endpoint working
+3. Test endpoint in browser
+4. Setup react app
+5. useEffect fetch data from server
+6. sort, filter, or map over that data
+7. render data
+8. test that everything works (do not forget cors lol)
+9. setup input field
+10. deliver content of input field to server via a POST request
+11. handle that input on the server (save to a log file, etc)
+
+
+## Learning to Code:
   
 I've created two programs:  
 1. the first is a cozy guide to getting started if this is your first time coding, and  
-2. the second is the real pre-bootcamp prep program, which is the one you will need to complete if you want to feel comfortable on day 1 of bootcamp.  
+2. the second is the real pre-bootcamp prep program, which is the one you will need to complete if you want to feel comfortable on day 1 of bootcamp and pass the pre-course eval. 
 
 Even if you're an experienced coder, you will learn a lot by completing the pre-bootcamp prep.  
 
@@ -66,19 +99,6 @@ Remember, you can work from our co-working space if you've paid the deposit for 
 
 *Why this sequence?*  
 Full Stack Open is the best online web development course we have found, and **Eloquent JS** is the best Javascript book. The NextJS app router course is critical to coming in on day 1 with experience in NextJS.
-
-### The Pre-course Exam:
-To pass the pre-course exam, you should be able to easily and fluidly do something like this, without looking anything up:
-1. Setup express server
-2. Get a GET endpoint working
-3. Test endpoint in browser
-4. Setup react app
-5. useEffect fetch data from server
-6. render data
-7. test that everything works (do not forget cors lol)
-8. setup input field
-9. deliver content of input field to server via a POST request
-10. handle that input on the server (save to a log file, etc)
 
 ---
 
