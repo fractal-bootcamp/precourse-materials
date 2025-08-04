@@ -27,7 +27,7 @@ To pass the pre-course eval, you should be able to easily and fluidly do somethi
 
 We have two pre-course programs. Both should take approximately 2-4 h/day of focused work. Even if you're an experienced coder, you will learn a lot by completing the pre-bootcamp prep.
 
-1. **Essentals (4 weeks)** is the first is the hard requirements of knowledge needed to pass the eval. It will take you from "zero technical knowledge" to "comfortably passing the eval".
+1. **Essentials (4 weeks)** covers the core prerequisites needed to pass the evaluation.
 2. **Optimal Prep (8 weeks)** will set you up to take full advantage of the boot camp. Our most successful students (the ones who make $150k+ or graduate early) have this knowledge, but you will be able to graduate the boot camp without it. It's strongly recommended but not required.
 
 > Many students browse *Essentials* in the evenings while powering through the *Optimal* schedule during the day. Feel free to remix however you see fit.
