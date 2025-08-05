@@ -48,8 +48,8 @@ Enjoying and practicing coding before class is essential to get the most out of 
 |------|-------------------|---------------------------------|-------------------------|
 | **1** | [CS 101 in 13 min] <br> [Web Dev 101 (13 min)]<br>[Git in 100 sec]<br>[JS in 100 sec] <br> [100+ JS Concepts] | [Learn HTML + CSS] | — |
 | **2** |  | [Learn JavaScript] | [Eloquent JS] Intro → Ch 4 |
-| **3** |  | [Learn React] | [Full Stack Open Part 0b] <br> [Full Stack Open Part 1] |
-| **4** |  | | [Full Stack Open Part 2] <br> [Full Stack Open Part 3]|
+| **3** |  | [Learn React] | |
+| **4** |  | | [Full Stack Open Parts 0b-3]|
 
 *Videos are optional but highly recommended—they deliver quick "a-ha" moments.*
 
