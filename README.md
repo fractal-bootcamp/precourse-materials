@@ -118,4 +118,4 @@ Full Stack Open is the best online web development course we have found, and **E
 
 [Eloquent JS]: https://eloquentjavascript.net/  
 [Pro Git Ch 1, 2, 6]: https://git-scm.com/book/en/v2  
-[Full Stack Open Parts 0-3]: https://fullstackopen.com/en/#course-contents
+[Full Stack Open Parts 0b-3]: https://fullstackopen.com/en/#course-contents
