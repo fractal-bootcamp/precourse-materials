@@ -6,6 +6,8 @@ Our program is intense, immersive, and a lot of fun! To make sure that you're re
 
 In order to make sure you can pass, we've put together a comprehensive self-guided course to help you learn. If you are coming from zero technical knowledge, it will take a few weeks of directed work to finish. If you have some technical background, it can go much faster. 
 
+**REMINDER: passing this evaluation is the ONLY true requirement to join the program. The precourse prep is OPTIONAL.**
+
 ### The Pre-course Eval:
 To pass the pre-course eval, you should be able to easily and fluidly do something like this, without looking anything up:
 
