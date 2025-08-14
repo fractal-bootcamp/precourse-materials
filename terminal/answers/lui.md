@@ -1,44 +1,35 @@
 ### What are the top 20 commands for mac Command Line Interface (CLI)?
 
 #### NAVIGATING
-
-cd = change directory
-ls = list contents of directory
-
-top = see memory, CPU, disk utilization
-q = quit sub-screen or perpetual process (like top) - Ctrl+C does this as well
-clear = tidy up terminal to show fresh screen
-
-whatis clear = EXPLAIN what the clear command does
-man clear = give a MANUAL all about the clear command
-
+- cd = change directory
+- ls = list contents of directory
+- top = see memory, CPU, disk utilization
+- q = quit sub-screen or perpetual process (like top) - Ctrl+C does this as well
+- clear = tidy up terminal to show fresh screen
+- whatis clear = EXPLAIN what the clear command does
+- man clear = give a MANUAL all about the clear command
 
 #### FILES
-
-open filename = OPEN a file
-cp filename newfilename = COPY a file
-mv filename path/to/new/file/location = MOVE a file
-touch myfile.txt = make a new blank FILE
-mkdir path/to/new/directory = make a new DIRECTORY
-
-ditto MyFolder MyNewFolder = COPY all contents of a directory
-ditto -V MyFolder MyNewFolder = give a VERBOSE readout of this operation
+- open filename = OPEN a file
+- cp filename newfilename = COPY a file
+- mv filename path/to/new/file/location = MOVE a file
+- touch myfile.txt = make a new blank FILE
+- mkdir path/to/new/directory = make a new DIRECTORY
+- ditto MyFolder MyNewFolder = COPY all contents of a directory
+- ditto -V MyFolder MyNewFolder = give a VERBOSE readout of this operation
 
 #### DELETING THINGS
-
-rmdir path/to/directory = delete an EMPTY directory
-rm -R path/to/root/directory = delete a NESTED directory (recursively)
-sudo rm -R path/to/root/directory = delete as a SUPERUSER
+- rmdir path/to/directory = delete an EMPTY directory
+- rm -R path/to/root/directory = delete a NESTED directory (recursively)
+- sudo rm -R path/to/root/directory = delete as a SUPERUSER
 
 #### SAYING GOODBYE
-
-killall AppName = FORCE QUIT an app
-exit = EXIT the terminal (although on windowed macos version you still need to Cmd+Q to close window)
+- killall AppName = FORCE QUIT an app
+- exit = EXIT the terminal (although on windowed macos version you still need to Cmd+Q to close window)
 
 #### THINGS I DON'T EXPECT TO NEED
-
-shortcuts run 'Create Daily Note' = run an Apple Shortcut workflow
-tmutil startbackup = kick off a new backup snapshot of your computer using Time Machine
+- shortcuts run 'Create Daily Note' = run an Apple Shortcut workflow
+- tmutil startbackup = kick off a new backup snapshot of your computer using Time Machine
 
 
 
