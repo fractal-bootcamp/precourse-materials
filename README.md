@@ -9,6 +9,7 @@ In order to make sure you can pass, we've put together a comprehensive self-guid
 ### The Pre-course Eval:
 To pass the pre-course eval, you should be able to easily and fluidly do something like this, without looking anything up:
 
+0. open a javascript file and write some random JS code (loops, functions, variables, console logs, etc etc)
 1. Setup express server
 2. Get a GET endpoint working
 3. Test endpoint in browser
